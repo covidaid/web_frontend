@@ -1,0 +1,12 @@
+.tempLandingPageContainer {
+  background: grey;
+  height: 100vh;
+  display: flex;
+}
+
+.tempLandingPageContent {
+  max-width: 700px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
